@@ -1,7 +1,21 @@
-These are the lab task for Digital Image Processing Course.
+# Digital Image Processing Lab Tasks
 
-Steps to set environment and run these codes:
-1. push this project in your vscode.
-2. Create a vertual environment into this project directory using terminal in vscode.
-3. Run all these codes one after another.
-   
+This repository contains the lab tasks for the **Digital Image Processing** course.
+
+---
+
+## 🚀 Setup and Run Instructions
+
+### 1. Clone this project
+```bash
+git clone https://github.com/<your-username>/<your-repo>.git
+cd <your-repo>
+### 2. Create a vertual environment in this directory and activate it
+```bash
+python3 -m venv venv
+source venv/bin/activate
+### 3. Install the required packeges by running the requirements.txt file
+```bash
+pip install -r requirements.txt
+### 4. Run the Codes
+Now you are all set . You can run now you codes.
