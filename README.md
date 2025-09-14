@@ -1,10 +1,10 @@
 # Digital Image Processing Lab Tasks
 
-This repository contains the lab tasks for the **Digital Image Processing** course.
+This repository contains the lab tasks for the **Digital Image Processing (DIP)** course.
 
 ---
 
-## 🚀 Setup and Run Instructions
+## 🚀 Setup and Running Instructions
 
 ### 1. Clone this project
 ```bash
@@ -21,7 +21,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ### 4. Run the Codes
-Exicuting the command like below in your venv terminal you can run the codes.
+Executing the command like below in your venv terminal you can run the codes.
 ```bash
 python3 highpass.py
 ```
